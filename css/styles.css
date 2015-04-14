@@ -1,0 +1,17 @@
+#division1 {
+    width: 100px;
+    height: 70px;
+    vertical-align: middle;
+    align-content: center;
+    color: rgb(205, 92, 92);
+
+}
+.body{
+    background-color: #66afe9;
+}
+.form {
+    margin-top: 15%;
+    border: 3px solid #337ab7;
+    padding: 20px;
+    border-radius: 15px;
+}
